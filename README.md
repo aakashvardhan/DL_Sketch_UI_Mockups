@@ -1,4 +1,5 @@
-# DL_Sketch_UI_Mockups
+
+# Widget Detector 
 
 
 <!-- TABLE OF CONTENTS -->
@@ -32,7 +33,7 @@
 
 ## About
 
-
+The Widget Detector employs deep learning to detect common user user interface components from hand drawn sketches.
 
 
 
