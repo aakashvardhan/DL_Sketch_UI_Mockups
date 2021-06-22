@@ -19,12 +19,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -33,7 +28,7 @@
 
 ## About The Project
 
-The Widget Detector employs deep learning to detect common user user interface components from hand drawn sketches.
+The Widget Detector employs deep learning to detect common user user interface components from hand drawn sketches. It then generates the necessary Flutter widget for that specific component. The purpose of this tool can speed up UI generation or even be used as a teaching tool.
 
 
 
